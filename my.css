@@ -1,0 +1,27 @@
+
+h1 {
+font-size: 70px;
+color: red;
+}
+h2{
+    font-size: 50px;
+    color: green;
+}
+h3{
+    font-size: 40px;
+    color: rgb(236, 85, 213);
+}
+p{
+    font-size: 30px;
+    color: blue;
+}
+nav{
+    font-size: 25px;   
+}
+body{
+	background-color: #D4E6B3;
+}
+
+body{
+	background-color: #e0edc7;
+}
